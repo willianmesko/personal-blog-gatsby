@@ -53,7 +53,7 @@ const config: WebsiteConfig = {
   description: 'Travel World',
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/wanderlust-log.jpg',
-  lang: 'en',
+  lang: 'pt',
   siteUrl: 'https://mesko.netlify.com/',
   facebook: '',
   twitter: '',

@@ -100,14 +100,14 @@ const SubscribeForm: React.FC = () => {
           type="email"
           name={config.mailchimpEmailFieldName}
           id={config.mailchimpEmailFieldName}
-          placeholder="youremail@example.com"
+          placeholder="seuemail@exemplo.com"
         />
       </FormGroup>
       <div style={{ position: 'absolute', left: '-5000px' }} aria-hidden="true">
         <input type="text" name={config.mailchimpName} tabIndex={-1} />
       </div>
       <SubscribeFormButton type="submit">
-        <span>Subscribe</span>
+        <span>Inscreva-se</span>
       </SubscribeFormButton>
     </form>
   );

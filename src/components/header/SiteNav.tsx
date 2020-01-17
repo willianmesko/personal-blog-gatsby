@@ -139,8 +139,7 @@ class SiteNav extends React.Component<SiteNavProps> {
             </li>
             <li role="menuitem">
               <Link to="/about">Sobre</Link>
-            </li>
-            
+            </li>    
           </ul>
         </SiteNavLeft>
         <SiteNavRight>

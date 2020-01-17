@@ -53,7 +53,7 @@ const config: WebsiteConfig = {
   description: 'The professional publishing platform',
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/ghost-logo.png',
-  lang: 'eng',
+  lang: 'en',
   siteUrl: 'https://gatsby-casper.netlify.com',
   facebook: '',
   twitter: '',

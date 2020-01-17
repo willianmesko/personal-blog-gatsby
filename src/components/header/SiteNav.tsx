@@ -65,8 +65,9 @@ const NavStyles = css`
     display: block;
     margin: 0;
     padding: 10px 12px;
-    color: #fff;
+    color: #000;
     opacity: 0.8;
+    font-weight: bold;
   }
 
   li a:hover {
@@ -137,7 +138,7 @@ class SiteNav extends React.Component<SiteNavProps> {
               <Link to="/">Home</Link>
             </li>
             <li role="menuitem">
-              <Link to="/about">About</Link>
+              <Link to="/about">Sobre</Link>
             </li>
           </ul>
         </SiteNavLeft>

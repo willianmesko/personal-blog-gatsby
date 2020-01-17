@@ -5,7 +5,7 @@ author: Ghost
 tags: ["Speeches"]
 image: img/oslob-while-shark.jpg
 date: "2019-01-17T15:11:55.000Z"
-draft: true
+draft: false
 ---
 
 

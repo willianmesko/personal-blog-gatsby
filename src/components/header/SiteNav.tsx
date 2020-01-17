@@ -65,8 +65,9 @@ const NavStyles = css`
     display: block;
     margin: 0;
     padding: 10px 12px;
-    color: #fff;
+    color: #000;
     opacity: 0.8;
+    font-weight: bold;
   }
 
   li a:hover {
